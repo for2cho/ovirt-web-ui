@@ -2435,6 +2435,7 @@
     "advancedOptions": "고급 옵션",
     "alias": "별칭",
     "allocatedVms": "할당된 가상 머신",
+    "allTabs": "취소 시 모든 탭에 적용됩니다.",
     "apiConnectionFailed": "oVirt API 연결에 실패했습니다",
     "apiVersionCheckFailed": "oVirt API 버전 확인에 실패했습니다",
     "areYouSureYouWantToDeleteDisk": "디스크 {diskName}을/를 삭제하시겠습니까? ",
