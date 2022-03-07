@@ -2743,7 +2743,7 @@
     "nicLinkStatusUp": "링크 상태: Up",
     "nicNoVnicAssigned": "해당 없음",
     "nicsTooltip": "연결되어 있는 가상 머신 네트워크 인터페이스 ",
-    "no": "No",
+    "no": "아니요",
     "noActiveStorageDomainInDataCenter": "데이터 센터 \"{dataCenterName}\"에 활성 데이터 스토리지 도메인이 없습니다. ",
     "noCdsAvailable": "사용 가능한 CD 없음",
     "noClustersAvailable": "사용 가능한 클러스터 없음",
